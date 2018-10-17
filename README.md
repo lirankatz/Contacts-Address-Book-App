@@ -6,8 +6,7 @@ The app include 2 forms:
 1. Form 1 is the java swing.
 2. Form 2 is javaFx.
 
-The app has the following features:
-Create new contact.
+The app has the following features:Create new contact.
 Update an existing contact.
 Browse between the contacts.
 Export the contacts book to a file: txt file / obj file / byte file.
