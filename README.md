@@ -9,9 +9,14 @@ The app include 2 forms:
 The app has the following features:
 
 Create new contact.
+
 Update an existing contact.
+
 Browse between the contacts.
+
 Export the contacts book to a file: txt file / obj file / byte file.
+
 Load the contacts book from a file: txt file / obj file / byte file.
+
 Sort your contacts book by first/last name, phone number in ascending/descending order.
 
