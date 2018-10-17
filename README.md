@@ -1,7 +1,7 @@
 Contacts-Address-Book-App:
 
-I built a system that manage an contacts address book,using MVC design pattern.   
-App.java is the main class in this projects.
+I built a system that manage a contacts address book,using MVC design pattern.   
+App.java is the main class in this project.
 The app include 2 forms: 
 1. Form 1 is the java swing.
 2. Form 2 is javaFx.
